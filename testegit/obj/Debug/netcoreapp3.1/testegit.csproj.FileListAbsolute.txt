@@ -1,0 +1,14 @@
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.exe
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.deps.json
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.runtimeconfig.json
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.runtimeconfig.dev.json
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.dll
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\bin\Debug\netcoreapp3.1\testegit.pdb
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.csproj.AssemblyReference.cache
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.AssemblyInfoInputs.cache
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.AssemblyInfo.cs
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.dll
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.pdb
+C:\Users\Felipe Wisniewski\source\repos\testegit\testegit\obj\Debug\netcoreapp3.1\testegit.genruntimeconfig.cache
